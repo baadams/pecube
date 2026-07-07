@@ -1,4 +1,4 @@
-# Pecube-D-inrusion
+# Pecube-D-intrusion
 This repository contains the codes used to produce a suite codes used to analyze output from Pecube-D-intrusion. These codes were written by Byron A. Adams. 
 
 *Directory contents*
